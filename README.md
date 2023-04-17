@@ -16,3 +16,5 @@ Jetzt wird Nummer 2 im PRO-Repo geschlossen.
 Testing Fast-Forward (Changing Commit Hashes ) 
 
 1) Start (Before Branch )
+2) we will test the behaviour, when using `no-ff`
+
