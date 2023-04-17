@@ -5,7 +5,9 @@ a first commit
 
 Testing a pull request
 
-Weiterer commit
+Commit in den main-Branch während der `fastforward-test` - Branch offen ist
+
+So jetzt nochmal eine Zeile im Main
 
 Issue #2 für Public Repo wird geschlossen 
 
@@ -15,6 +17,6 @@ Jetzt wird Nummer 2 im PRO-Repo geschlossen.
 
 Testing Fast-Forward (Changing Commit Hashes ) 
 
-1) Start (Before Branch )
-2) we will test the behaviour, when using `no-ff`
-
+1) Start (Before Branch)
+2) First commit in branch
+3) Second commit in branch
