@@ -12,3 +12,7 @@ Issue #2 für Public Repo wird geschlossen
 Jetzt wird es aber wirklich geschlossen. ... war ein Schreibfehler in der Commit-Message
 
 Jetzt wird Nummer 2 im PRO-Repo geschlossen.
+
+Testing Fast-Forward (Changing Commit Hashes ) 
+
+1) Start (Before Branch )
