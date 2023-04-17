@@ -5,4 +5,6 @@ a first commit
 
 Testing a pull request
 
-Weiterer commit 
+Weiterer commit
+
+Issue #2 für Public Repo wird geschlossen 
