@@ -21,3 +21,5 @@ Testing Fast-Forward (Changing Commit Hashes )
 2) First commit in branch
 3) Second commit in branch
 4) So we do another commit in the feature branch
+
+Further Bugfixes in the main Branch 
